@@ -1,0 +1,5 @@
+{
+  "name": "Water Bucket Tracker",
+  "description": "A robust application for managing shared water bucket expenses (₹20/bucket) with automatic rotation, fair exemption logic, and admin controls.",
+  "requestFramePermissions": []
+}
